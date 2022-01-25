@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **Python, Machine Learning, NLP**
 
-- 📫 How to reach me **aiswaryalenin16@gmail.com**
-
 - 📄 Know about my experiences [https://www.notion.so/Aiswarya-Lenin-047a1ae91b884ca8850b20db44e007ec](https://www.notion.so/Aiswarya-Lenin-047a1ae91b884ca8850b20db44e007ec)
 
 <h3 align="left">Connect with me:</h3>
